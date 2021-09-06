@@ -1,0 +1,9 @@
+{
+	"name": "dataccnf",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7e83d61f-d319-4173-8e80-bbbd61eebce0",
+		"tenantId": "e1a4fd83-2b5d-4f8a-a708-2396324c4828"
+	}
+}
